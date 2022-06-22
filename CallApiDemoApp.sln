@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp", "WpfApp\WpfApp.csproj", "{DFD09931-FEA7-4394-A0E8-C800ACA0FB61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiHelpers", "ApiHelper\ApiHelpers.csproj", "{397FA702-A579-4CF9-B97B-B8CF54807664}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apis", "Apis\Apis.csproj", "{8F30B05F-0B52-45AB-851F-46E10CA16022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD09931-FEA7-4394-A0E8-C800ACA0FB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD09931-FEA7-4394-A0E8-C800ACA0FB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD09931-FEA7-4394-A0E8-C800ACA0FB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD09931-FEA7-4394-A0E8-C800ACA0FB61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397FA702-A579-4CF9-B97B-B8CF54807664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397FA702-A579-4CF9-B97B-B8CF54807664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397FA702-A579-4CF9-B97B-B8CF54807664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397FA702-A579-4CF9-B97B-B8CF54807664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F30B05F-0B52-45AB-851F-46E10CA16022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F30B05F-0B52-45AB-851F-46E10CA16022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F30B05F-0B52-45AB-851F-46E10CA16022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F30B05F-0B52-45AB-851F-46E10CA16022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDDFB66C-23EA-4839-8673-F726EE5FD35C}
+	EndGlobalSection
+EndGlobal
